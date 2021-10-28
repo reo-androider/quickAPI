@@ -27,7 +27,6 @@ repositories {
     jcenter()
     maven { url 'https://kotlin.bintray.com/ktor' }
     maven { url 'https://kotlin.bintray.com/kotlin-js-wrappers' }
-    maven { url = uri("https://dl.bintray.com/kotlin/kotlin-js-wrappers/") }
     mavenCentral()
 }
 
